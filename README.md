@@ -26,7 +26,7 @@ By addressing these aspects, we aim to enhance the understanding of the factors 
 ![approval_with_ job_ title](https://github.com/kuetena1/Credit-card-approval/assets/133491695/a8d1c172-cf49-4fec-9c21-09523321861f)
 
 
-### This chart Explores how housing type relates to  the Credit card approval
+### This chart Explores how housing type relates to  Credit card approval
 
 ![Approval_with housing_type](https://github.com/kuetena1/Credit-card-approval/assets/133491695/77ccdb36-882c-4a6f-8d6e-c9b8da201969)
 
